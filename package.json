@@ -30,10 +30,10 @@
   },
   "homepage": "https://github.com/heyman333/react-native-animated-numbers/blob/master/README.md",
   "peerDependencies": {
-    "react": ">=16.8.0",
-    "react-native": ">=0.59",
-    "react-native-reanimated": ">=2",
-    "react-native-gesture-handler": "1.10.3"
+    "react": "*",
+    "react-native": "*",
+    "react-native-gesture-handler": ">=1.10.1",
+    "react-native-reanimated": ">=2.2.0"
   },
   "devDependencies": {
     "eslint": "^7.4.0",
